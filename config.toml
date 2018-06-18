@@ -62,6 +62,6 @@ paginate = 5 #frontpage pagination
   linkedin      = "full profile url in linkedin"
   #stackoverflow = "full profile url in stackoverflow"
   instagram     = "full profile url in instagram"
-  github        = "full profile url in github"
+  github        = "https://github.com/zhaalex"
   #pinterest     = "full profile url in pinterest"
   #rss           = true

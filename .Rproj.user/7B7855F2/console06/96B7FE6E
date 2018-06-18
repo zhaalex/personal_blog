@@ -286,3 +286,19 @@ remote: Resolving deltas:   0% (0/26)   [Kremote: Resolving deltas:   3% (1/26
 To https://github.com/zhaalex/personal_blog.git
    a001a91..485f52c  master -> master
 ]0;~/Documents/Umich/iXperience/Projects/ixBlogNederburgAlexs-MacBook-Pro-2:ixBlogNederburg alexzhang2016$ git add -A 
+]0;~/Documents/Umich/iXperience/Projects/ixBlogNederburgAlexs-MacBook-Pro-2:ixBlogNederburg alexzhang2016$ git push [K[K[K[K[Kcommit " a[K[K[Kadd[K[K"[K[K"added gi t ignore" 
+error: pathspec 'added git ignore' did not match any file(s) known to git.
+]0;~/Documents/Umich/iXperience/Projects/ixBlogNederburgAlexs-MacBook-Pro-2:ixBlogNederburg alexzhang2016$ git i[Kcommit -m "added  git ignore" 
+[master 23e3fe9] added git ignore
+ 2 files changed, 25 insertions(+), 1 deletion(-)
+ create mode 100644 .gitignore
+]0;~/Documents/Umich/iXperience/Projects/ixBlogNederburgAlexs-MacBook-Pro-2:ixBlogNederburg alexzhang2016$ git push
+Counting objects: 7, done.
+Delta compression using up to 8 threads.
+Compressing objects:  16% (1/6)   Compressing objects:  33% (2/6)   Compressing objects:  50% (3/6)   Compressing objects:  66% (4/6)   Compressing objects:  83% (5/6)   Compressing objects: 100% (6/6)   Compressing objects: 100% (6/6), done.
+Writing objects:  14% (1/7)   Writing objects:  28% (2/7)   Writing objects:  42% (3/7)   Writing objects:  57% (4/7)   Writing objects:  71% (5/7)   Writing objects:  85% (6/7)   Writing objects: 100% (7/7)   Writing objects: 100% (7/7), 1.67 KiB | 571.00 KiB/s, done.
+Total 7 (delta 2), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/2)   [Kremote: Resolving deltas:  50% (1/2)   [Kremote: Resolving deltas: 100% (2/2)   [Kremote: Resolving deltas: 100% (2/2), completed with 2 local objects.[K
+To https://github.com/zhaalex/personal_blog.git
+   485f52c..23e3fe9  master -> master
+]0;~/Documents/Umich/iXperience/Projects/ixBlogNederburgAlexs-MacBook-Pro-2:ixBlogNederburg alexzhang2016$ git add -A "[K
