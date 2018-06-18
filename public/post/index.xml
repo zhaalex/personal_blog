@@ -6,19 +6,18 @@
     <description>Recent content in Posts on Alex Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 05 Nov 2016 19:41:01 +0530</lastBuildDate>
+    <lastBuildDate>Mon, 18 Jun 2018 20:22:08 +0530</lastBuildDate>
     
 	<atom:link href="/post/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>This is a Standard Post</title>
-      <link>/post/standardpost/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      <title>Rome Wasn&#39;t Built in a Day</title>
+      <link>/post/intro/</link>
+      <pubDate>Mon, 18 Jun 2018 20:22:08 +0530</pubDate>
       
-      <guid>/post/standardpost/</guid>
-      <description>&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
-&lt;/p&gt;</description>
+      <guid>/post/intro/</guid>
+      <description>But this blog was.</description>
     </item>
     
     <item>
@@ -82,16 +81,6 @@
     </item>
     
     <item>
-      <title>Rome Wasn&#39;t Built in a Day</title>
-      <link>/post/intro/</link>
-      <pubDate>Mon, 18 Jun 2018 20:22:08 +0530</pubDate>
-      
-      <guid>/post/intro/</guid>
-      <description>Currently at iX right now.
-Great times my bru.</description>
-    </item>
-    
-    <item>
       <title>Item with image</title>
       <link>/post/work10/</link>
       <pubDate>Sat, 05 Nov 2016 20:22:08 +0530</pubDate>
@@ -108,6 +97,16 @@ Great times my bru.</description>
       
       <guid>/post/work11/</guid>
       <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
+&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>This is a Standard Post</title>
+      <link>/post/standardpost/</link>
+      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
+      
+      <guid>/post/standardpost/</guid>
+      <description>&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
 &lt;/p&gt;</description>
     </item>
     
