@@ -9,6 +9,7 @@ weight = 1
 +++
 
 This blog wasn't either.
+<!--more-->
 
 I've started to blog as a way to document my daily activities.  Often I find myself struggling to remember, and it's also a way to reflect on life.
 

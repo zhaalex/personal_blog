@@ -6,10 +6,19 @@
     <description>Recent content in Tags on Alex Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Thu, 23 Jul 2015 21:13:14 -0500</lastBuildDate>
+    <lastBuildDate>Mon, 18 Jun 2018 20:22:08 +0530</lastBuildDate>
     
 	<atom:link href="/tags/index.xml" rel="self" type="application/rss+xml" />
     
+    
+    <item>
+      <title>Abroad</title>
+      <link>/tags/abroad/</link>
+      <pubDate>Mon, 18 Jun 2018 20:22:08 +0530</pubDate>
+      
+      <guid>/tags/abroad/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Plot</title>
@@ -35,6 +44,15 @@
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/tags/regression/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Summer18</title>
+      <link>/tags/summer18/</link>
+      <pubDate>Mon, 18 Jun 2018 20:22:08 +0530</pubDate>
+      
+      <guid>/tags/summer18/</guid>
       <description></description>
     </item>
     
