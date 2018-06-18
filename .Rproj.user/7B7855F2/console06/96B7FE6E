@@ -26,3 +26,244 @@ nothing added to commit but untracked files present
 ]0;~/Documents/Umich/iXperience/Projects/ixBlogNederburgAlexs-MacBook-Pro-2:ixBlogNederburg alexzhang2016$ git remote add origi n https://github.com/zhaalex/personal_blog.git
 ]0;~/Documents/Umich/iXperience/Projects/ixBlogNederburgAlexs-MacBook-Pro-2:ixBlogNederburg alexzhang2016$ git push -u origin m aster[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cremote add origin https://github.com/zhaalex/personal_blog.git[A[C[C[C[C[C[C[C[C[Cpush -u origin master[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cremote add origin https://github.com/zhaalex/personal_blog.git[A[C[C[C[C[C[C[C[C[Ccommit -m "first commit"[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
 [K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit add -A 
+]0;~/Documents/Umich/iXperience/Projects/ixBlogNederburgAlexs-MacBook-Pro-2:ixBlogNederburg alexzhang2016$ git commit -m "first  commit " 
+[master (root-commit) a001a91] first commit
+ 199 files changed, 26289 insertions(+)
+ create mode 100644 .Rproj.user/7B7855F2/console06/96B7FE6E
+ create mode 100644 .Rproj.user/7B7855F2/console06/96B7FE6E.env
+ create mode 100644 .Rproj.user/7B7855F2/console06/INDEX001
+ create mode 100644 .Rproj.user/7B7855F2/sources/prop/15D3C08B
+ create mode 100644 .Rproj.user/7B7855F2/sources/prop/8948A1FB
+ create mode 100644 .Rproj.user/7B7855F2/sources/prop/INDEX
+ create mode 100644 .Rproj.user/7B7855F2/sources/s-5F16900D/265B5C22
+ create mode 100644 .Rproj.user/7B7855F2/sources/s-5F16900D/265B5C22-contents
+ create mode 100644 .Rproj.user/7B7855F2/sources/s-5F16900D/A9EEC121
+ create mode 100644 .Rproj.user/7B7855F2/sources/s-5F16900D/A9EEC121-contents
+ create mode 100644 .Rproj.user/7B7855F2/sources/s-5F16900D/lock_file
+ create mode 100644 .Rproj.user/shared/notebooks/patch-chunk-names
+ create mode 100644 config.toml
+ create mode 100644 content/about/index.html
+ create mode 100644 content/about/index.md
+ create mode 100644 content/contact/_index.md
+ create mode 100644 content/post/2015-07-23-r-rmarkdown.Rmd
+ create mode 100644 content/post/2015-07-23-r-rmarkdown.html
+ create mode 100644 content/post/work1.md
+ create mode 100644 content/post/work10.md
+ create mode 100644 content/post/work11.md
+ create mode 100644 content/post/work2.md
+ create mode 100644 content/post/work3.md
+ create mode 100644 content/post/work4.md
+ create mode 100644 content/post/work5.md
+ create mode 100644 content/post/work7.md
+ create mode 100644 content/post/work8.md
+ create mode 100644 content/post/work9.md
+ create mode 100644 index.Rmd
+ create mode 100644 ixBlogNederburg.Rproj
+ create mode 100644 layouts/.gitkeep
+ create mode 100644 public/about/index.html
+ create mode 100644 public/categories/code/index.html
+ create mode 100644 public/categories/code/index.xml
+ create mode 100644 public/categories/design/index.html
+ create mode 100644 public/categories/design/index.xml
+ create mode 100644 public/categories/index.xml
+ create mode 100644 public/categories/photography/index.html
+ create mode 100644 public/categories/photography/index.xml
+ create mode 100644 public/categories/r/index.html
+ create mode 100644 public/categories/r/index.xml
+ create mode 100644 public/categories/travel/index.html
+ create mode 100644 public/categories/travel/index.xml
+ create mode 100644 public/contact/index.html
+ create mode 100644 public/contact/index.xml
+ create mode 100644 public/css/custom.css
+ create mode 100644 public/css/font-awesome.min.css
+ create mode 100644 public/css/fonts/FontAwesome.otf
+ create mode 100644 public/css/fonts/fontawesome-webfont.eot
+ create mode 100644 public/css/fonts/fontawesome-webfont.svg
+ create mode 100644 public/css/fonts/fontawesome-webfont.ttf
+ create mode 100644 public/css/fonts/fontawesome-webfont.woff
+ create mode 100644 public/css/fonts/fontawesome-webfont.woff2
+ create mode 100644 public/css/style.css
+ create mode 100644 public/img/about.jpg
+ create mode 100644 public/img/favicon.ico
+ create mode 100644 public/img/portfolio/a4-paper.jpg
+ create mode 100644 public/img/portfolio/bike1.jpg
+ create mode 100644 public/img/portfolio/birds.jpg
+ create mode 100644 public/img/portfolio/bridge1.jpg
+ create mode 100644 public/img/portfolio/budapest.jpg
+ create mode 100644 public/img/portfolio/business-card-26.jpg
+ create mode 100644 public/img/portfolio/business-card.jpg
+ create mode 100644 public/img/portfolio/camera1.jpg
+ create mode 100644 public/img/portfolio/envelope-brand.jpg
+ create mode 100644 public/img/portfolio/gravity-paper.jpg
+ create mode 100644 public/img/portfolio/ipad-air-2.jpg
+ create mode 100644 public/img/portfolio/label-clothes.jpg
+ create mode 100644 public/img/portfolio/logs1.jpg
+ create mode 100644 public/img/portfolio/paper-presentation.jpg
+ create mode 100644 public/img/portfolio/railroad-forest1.jpg
+ create mode 100644 public/img/portfolio/sfo.jpg
+ create mode 100644 public/img/portfolio/trifold.jpg
+ create mode 100644 public/index.html
+ create mode 100644 public/index.xml
+ create mode 100644 public/js/fitvids.js
+ create mode 100644 public/js/jquery.min.js
+ create mode 100644 public/js/jquerymigrate.js
+ create mode 100644 public/js/production.min.js
+ create mode 100644 public/page/1/index.html
+ create mode 100644 public/page/2/index.html
+ create mode 100644 public/page/3/index.html
+ create mode 100644 public/post/2015-07-23-r-rmarkdown.Rmd
+ create mode 100644 public/post/2015-07-23-r-rmarkdown/index.html
+ create mode 100644 public/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png
+ create mode 100644 public/post/index.xml
+ create mode 100644 public/post/work1/index.html
+ create mode 100644 public/post/work10/index.html
+ create mode 100644 public/post/work11/index.html
+ create mode 100644 public/post/work2/index.html
+ create mode 100644 public/post/work3/index.html
+ create mode 100644 public/post/work4/index.html
+ create mode 100644 public/post/work5/index.html
+ create mode 100644 public/post/work7/index.html
+ create mode 100644 public/post/work8/index.html
+ create mode 100644 public/post/work9/index.html
+ create mode 100644 public/sitemap.xml
+ create mode 100644 public/tags/index.xml
+ create mode 100644 public/tags/plot/index.html
+ create mode 100644 public/tags/plot/index.xml
+ create mode 100644 public/tags/r-markdown/index.html
+ create mode 100644 public/tags/r-markdown/index.xml
+ create mode 100644 public/tags/regression/index.html
+ create mode 100644 public/tags/regression/index.xml
+ create mode 100644 static/img/about.jpg
+ create mode 100644 static/img/favicon.ico
+ create mode 100644 static/img/portfolio/a4-paper.jpg
+ create mode 100644 static/img/portfolio/bike1.jpg
+ create mode 100644 static/img/portfolio/birds.jpg
+ create mode 100644 static/img/portfolio/bridge1.jpg
+ create mode 100644 static/img/portfolio/budapest.jpg
+ create mode 100644 static/img/portfolio/business-card-26.jpg
+ create mode 100644 static/img/portfolio/business-card.jpg
+ create mode 100644 static/img/portfolio/camera1.jpg
+ create mode 100644 static/img/portfolio/envelope-brand.jpg
+ create mode 100644 static/img/portfolio/gravity-paper.jpg
+ create mode 100644 static/img/portfolio/ipad-air-2.jpg
+ create mode 100644 static/img/portfolio/label-clothes.jpg
+ create mode 100644 static/img/portfolio/logs1.jpg
+ create mode 100644 static/img/portfolio/paper-presentation.jpg
+ create mode 100644 static/img/portfolio/railroad-forest1.jpg
+ create mode 100644 static/img/portfolio/sfo.jpg
+ create mode 100644 static/img/portfolio/trifold.jpg
+ create mode 100644 static/post/2015-07-23-r-rmarkdown_files/figure-html/pie-1.png
+ create mode 100644 themes/hugo-nederburg-theme/LICENSE
+ create mode 100644 themes/hugo-nederburg-theme/README.md
+ create mode 100644 themes/hugo-nederburg-theme/archetypes/default.md
+ create mode 100644 themes/hugo-nederburg-theme/archetypes/portfolio.md
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/config.toml
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/content/about/index.md
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/content/contact/_index.md
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/content/post/work1.md
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/content/post/work10.md
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/content/post/work11.md
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/content/post/work2.md
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/content/post/work3.md
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/content/post/work4.md
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/content/post/work5.md
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/content/post/work7.md
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/content/post/work8.md
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/content/post/work9.md
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/layouts/.gitkeep
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/static/img/about.jpg
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/static/img/favicon.ico
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/static/img/portfolio/a4-paper.jpg
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/static/img/portfolio/bike1.jpg
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/static/img/portfolio/birds.jpg
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/static/img/portfolio/bridge1.jpg
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/static/img/portfolio/budapest.jpg
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/static/img/portfolio/business-card-26.jpg
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/static/img/portfolio/business-card.jpg
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/static/img/portfolio/camera1.jpg
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/static/img/portfolio/envelope-brand.jpg
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/static/img/portfolio/gravity-paper.jpg
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/static/img/portfolio/ipad-air-2.jpg
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/static/img/portfolio/label-clothes.jpg
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/static/img/portfolio/logs1.jpg
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/static/img/portfolio/paper-presentation.jpg
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/static/img/portfolio/railroad-forest1.jpg
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/static/img/portfolio/sfo.jpg
+ create mode 100644 themes/hugo-nederburg-theme/exampleSite/static/img/portfolio/trifold.jpg
+ create mode 100644 themes/hugo-nederburg-theme/images/screenshot.png
+ create mode 100644 themes/hugo-nederburg-theme/images/tn.png
+ create mode 100644 themes/hugo-nederburg-theme/layouts/404.html
+ create mode 100644 themes/hugo-nederburg-theme/layouts/_default/baseof.html
+ create mode 100644 themes/hugo-nederburg-theme/layouts/_default/list.html
+ create mode 100644 themes/hugo-nederburg-theme/layouts/_default/single.html
+ create mode 100644 themes/hugo-nederburg-theme/layouts/_default/taxonomy.html
+ create mode 100644 themes/hugo-nederburg-theme/layouts/about/single.html
+ create mode 100644 themes/hugo-nederburg-theme/layouts/contact/list.html
+ create mode 100644 themes/hugo-nederburg-theme/layouts/index.html
+ create mode 100644 themes/hugo-nederburg-theme/layouts/partials/category.html
+ create mode 100644 themes/hugo-nederburg-theme/layouts/partials/footer.html
+ create mode 100644 themes/hugo-nederburg-theme/layouts/partials/head.html
+ create mode 100644 themes/hugo-nederburg-theme/layouts/partials/header.html
+ create mode 100644 themes/hugo-nederburg-theme/layouts/partials/pagination.html
+ create mode 100644 themes/hugo-nederburg-theme/layouts/partials/portfolio.html
+ create mode 100644 themes/hugo-nederburg-theme/layouts/partials/schema.html
+ create mode 100644 themes/hugo-nederburg-theme/layouts/partials/scripts.html
+ create mode 100644 themes/hugo-nederburg-theme/layouts/partials/tag.html
+ create mode 100644 themes/hugo-nederburg-theme/layouts/partials/topnavigation.html
+ create mode 100644 themes/hugo-nederburg-theme/layouts/taxonomy/category.html
+ create mode 100644 themes/hugo-nederburg-theme/layouts/taxonomy/tag.html
+ create mode 100644 themes/hugo-nederburg-theme/package.json
+ create mode 100644 themes/hugo-nederburg-theme/static/css/custom.css
+ create mode 100644 themes/hugo-nederburg-theme/static/css/font-awesome.min.css
+ create mode 100644 themes/hugo-nederburg-theme/static/css/fonts/FontAwesome.otf
+ create mode 100644 themes/hugo-nederburg-theme/static/css/fonts/fontawesome-webfont.eot
+ create mode 100644 themes/hugo-nederburg-theme/static/css/fonts/fontawesome-webfont.svg
+ create mode 100644 themes/hugo-nederburg-theme/static/css/fonts/fontawesome-webfont.ttf
+ create mode 100644 themes/hugo-nederburg-theme/static/css/fonts/fontawesome-webfont.woff
+ create mode 100644 themes/hugo-nederburg-theme/static/css/fonts/fontawesome-webfont.woff2
+ create mode 100644 themes/hugo-nederburg-theme/static/css/style.css
+ create mode 100644 themes/hugo-nederburg-theme/static/img/favicon.ico
+ create mode 100644 themes/hugo-nederburg-theme/static/js/fitvids.js
+ create mode 100644 themes/hugo-nederburg-theme/static/js/jquery.min.js
+ create mode 100644 themes/hugo-nederburg-theme/static/js/jquerymigrate.js
+ create mode 100644 themes/hugo-nederburg-theme/static/js/production.min.js
+ create mode 100644 themes/hugo-nederburg-theme/theme.toml
+]0;~/Documents/Umich/iXperience/Projects/ixBlogNederburgAlexs-MacBook-Pro-2:ixBlogNederburg alexzhang2016$ git remote add origi n https://github.com/zhaalex/personal_blog.git
+fatal: remote origin already exists.
+]0;~/Documents/Umich/iXperience/Projects/ixBlogNederburgAlexs-MacBook-Pro-2:ixBlogNederburg alexzhang2016$ git push -u origin m aster
+Counting objects: 198, done.
+Delta compression using up to 8 threads.
+Compressing objects:   0% (1/167)   Compressing objects:   1% (2/167)   Compressing objects:   2% (4/167)   Compressing objects:   3% (6/167)   Compressing objects:   4% (7/167)   Compressing objects:   5% (9/167)   Compressing objects:   6% (11/167)   Compressing objects:   7% (12/167)   Compressing objects:   8% (14/167)   Compressing objects:   9% (16/167)   Compressing objects:  10% (17/167)   Compressing objects:  11% (19/167)   Compressing objects:  12% (21/167)   Compressing objects:  13% (22/167)   Compressing objects:  14% (24/167)   Compressing objects:  15% (26/167)   Compressing objects:  16% (27/167)   Compressing objects:  17% (29/167)   Compressing objects:  18% (31/167)   Compressing objects:  19% (32/167)   Compressing objects:  20% (34/167)   Compressing objects:  21% (36/167)   Compressing objects:  22% (37/167)   Compressing objects:  23% (39/167)   Compressing objects:  24% (41/167)   Compressing objects:  25% (42/167)   Compressing objects:  26% (44/167)   Compressing objects:  27% (46/167)   Compressing objects:  28% (47/167)   Compressing objects:  29% (49/167)   Compressing objects:  30% (51/167)   Compressing objects:  31% (52/167)   Compressing objects:  32% (54/167)   Compressing objects:  33% (56/167)   Compressing objects:  34% (57/167)   Compressing objects:  35% (59/167)   Compressing objects:  36% (61/167)   Compressing objects:  37% (62/167)   Compressing objects:  38% (64/167)   Compressing objects:  39% (66/167)   Compressing objects:  40% (67/167)   Compressing objects:  41% (69/167)   Compressing objects:  42% (71/167)   Compressing objects:  43% (72/167)   Compressing objects:  44% (74/167)   Compressing objects:  45% (76/167)   Compressing objects:  46% (77/167)   Compressing objects:  47% (79/167)   Compressing objects:  48% (81/167)   Compressing objects:  49% (82/167)   Compressing objects:  50% (84/167)   Compressing objects:  51% (86/167)   Compressing objects:  52% (87/167)   Compressing objects:  53% (89/167)   Compressing objects:  54% (91/167)   Compressing objects:  55% (92/167)   Compressing objects:  56% (94/167)   Compressing objects:  57% (96/167)   Compressing objects:  58% (97/167)   Compressing objects:  59% (99/167)   Compressing objects:  60% (101/167)   Compressing objects:  61% (102/167)   Compressing objects:  62% (104/167)   Compressing objects:  63% (106/167)   Compressing objects:  64% (107/167)   Compressing objects:  65% (109/167)   Compressing objects:  66% (111/167)   Compressing objects:  67% (112/167)   Compressing objects:  68% (114/167)   Compressing objects:  69% (116/167)   Compressing objects:  70% (117/167)   Compressing objects:  71% (119/167)   Compressing objects:  72% (121/167)   Compressing objects:  73% (122/167)   Compressing objects:  74% (124/167)   Compressing objects:  75% (126/167)   Compressing objects:  76% (127/167)   Compressing objects:  77% (129/167)   Compressing objects:  78% (131/167)   Compressing objects:  79% (132/167)   Compressing objects:  80% (134/167)   Compressing objects:  81% (136/167)   Compressing objects:  82% (137/167)   Compressing objects:  83% (139/167)   Compressing objects:  84% (141/167)   Compressing objects:  85% (142/167)   Compressing objects:  86% (144/167)   Compressing objects:  87% (146/167)   Compressing objects:  88% (147/167)   Compressing objects:  89% (149/167)   Compressing objects:  90% (151/167)   Compressing objects:  91% (152/167)   Compressing objects:  92% (154/167)   Compressing objects:  93% (156/167)   Compressing objects:  94% (157/167)   Compressing objects:  95% (159/167)   Compressing objects:  96% (161/167)   Compressing objects:  97% (162/167)   Compressing objects:  98% (164/167)   Compressing objects:  99% (166/167)   Compressing objects: 100% (167/167)   Compressing objects: 100% (167/167), done.
+Writing objects:   0% (1/198)   Writing objects:   1% (2/198)   Writing objects:   2% (4/198)   Writing objects:   3% (6/198)   Writing objects:   4% (8/198)   Writing objects:   5% (10/198)   Writing objects:   6% (12/198)   Writing objects:   7% (14/198)   Writing objects:   8% (16/198)   Writing objects:   9% (18/198)   Writing objects:  10% (20/198)   Writing objects:  11% (23/198)   Writing objects:  12% (24/198)   Writing objects:  13% (26/198)   Writing objects:  14% (28/198)   Writing objects:  15% (30/198)   Writing objects:  16% (32/198)   Writing objects:  17% (34/198)   Writing objects:  18% (36/198)   Writing objects:  19% (39/198)   Writing objects:  20% (40/198)   Writing objects:  21% (42/198)   Writing objects:  22% (44/198)   Writing objects:  23% (46/198)   Writing objects:  24% (49/198)   Writing objects:  25% (50/198)   Writing objects:  26% (53/198)   Writing objects:  27% (55/198)   Writing objects:  28% (56/198)   Writing objects:  29% (58/198)   Writing objects:  30% (60/198)   Writing objects:  31% (62/198)   Writing objects:  32% (65/198)   Writing objects:  33% (66/198)   Writing objects:  34% (68/198)   Writing objects:  35% (70/198)   Writing objects:  36% (72/198)   Writing objects:  37% (74/198)   Writing objects:  38% (76/198)   Writing objects:  39% (78/198)   Writing objects:  40% (80/198)   Writing objects:  41% (82/198)   Writing objects:  42% (84/198)   Writing objects:  43% (86/198)   Writing objects:  44% (88/198)   Writing objects:  44% (89/198), 1.08 MiB | 479.00 KiB/s   Writing objects:  45% (90/198), 1.08 MiB | 479.00 KiB/s   Writing objects:  46% (92/198), 1.08 MiB | 479.00 KiB/s   Writing objects:  47% (94/198), 1.08 MiB | 479.00 KiB/s   Writing objects:  48% (96/198), 1.08 MiB | 479.00 KiB/s   Writing objects:  49% (98/198), 1.08 MiB | 479.00 KiB/s   Writing objects:  50% (99/198), 1.08 MiB | 479.00 KiB/s   Writing objects:  51% (101/198), 2.18 MiB | 795.00 KiB/s   Writing objects:  51% (101/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  52% (103/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  53% (105/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  54% (107/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  55% (109/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  56% (111/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  57% (113/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  58% (115/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  59% (117/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  60% (119/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  61% (121/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  62% (123/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  64% (128/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  65% (129/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  66% (131/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  67% (133/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  68% (135/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  69% (137/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  70% (139/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  71% (141/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  72% (143/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  73% (145/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  74% (147/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  75% (149/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  76% (151/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  77% (153/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  78% (155/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  79% (157/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  80% (159/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  81% (161/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  82% (163/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  83% (165/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  84% (167/198), 2.84 MiB | 789.00 KiB/s   Writing objects:  84% (168/198), 3.38 MiB | 827.00 KiB/s   Writing objects:  85% (169/198), 3.38 MiB | 827.00 KiB/s   Writing objects:  86% (171/198), 3.38 MiB | 827.00 KiB/s   Writing objects:  87% (173/198), 3.38 MiB | 827.00 KiB/s   Writing objects:  88% (175/198), 3.38 MiB | 827.00 KiB/s   Writing objects:  89% (177/198), 3.38 MiB | 827.00 KiB/s   Writing objects:  90% (179/198), 3.38 MiB | 827.00 KiB/s   Writing objects:  91% (181/198), 3.38 MiB | 827.00 KiB/s   Writing objects:  92% (183/198), 3.38 MiB | 827.00 KiB/s   Writing objects:  93% (185/198), 3.38 MiB | 827.00 KiB/s   Writing objects:  94% (187/198), 3.38 MiB | 827.00 KiB/s   Writing objects:  95% (189/198), 3.38 MiB | 827.00 KiB/s   Writing objects:  96% (191/198), 3.38 MiB | 827.00 KiB/s   Writing objects:  97% (193/198), 3.38 MiB | 827.00 KiB/s   Writing objects:  98% (195/198), 3.38 MiB | 827.00 KiB/s   Writing objects:  99% (197/198), 3.38 MiB | 827.00 KiB/s   Writing objects: 100% (198/198), 3.38 MiB | 827.00 KiB/s   Writing objects: 100% (198/198), 4.13 MiB | 945.00 KiB/s, done.
+Total 198 (delta 48), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/48)   [Kremote: Resolving deltas:   2% (1/48)   [Kremote: Resolving deltas:   4% (2/48)   [Kremote: Resolving deltas:   6% (3/48)   [Kremote: Resolving deltas:  25% (12/48)   [Kremote: Resolving deltas:  37% (18/48)   [Kremote: Resolving deltas:  72% (35/48)   [Kremote: Resolving deltas:  93% (45/48)   [Kremote: Resolving deltas:  95% (46/48)   [Kremote: Resolving deltas:  97% (47/48)   [Kremote: Resolving deltas: 100% (48/48)   [Kremote: Resolving deltas: 100% (48/48), done.[K
+To https://github.com/zhaalex/personal_blog.git
+ * [new branch]      master -> master
+Branch 'master' set up to track remote branch 'master' from 'origin'.
+]0;~/Documents/Umich/iXperience/Projects/ixBlogNederburgAlexs-MacBook-Pro-2:ixBlogNederburg alexzhang2016$ hugo version
+Hugo Static Site Generator v0.42.1 darwin/amd64
+]0;~/Documents/Umich/iXperience/Projects/ixBlogNederburgAlexs-MacBook-Pro-2:ixBlogNederburg alexzhang2016$ git status
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rproj.user/7B7855F2/console06/96B7FE6E[m
+	[31mmodified:   .Rproj.user/7B7855F2/sources/prop/INDEX[m
+	[31mmodified:   .Rproj.user/7B7855F2/sources/s-5F16900D/A9EEC121[m
+	[31mmodified:   config.toml[m
+
+Untracked files:
+  (use "git add <file>..." to include in what will be committed)
+
+	[31m.Rproj.user/7B7855F2/sources/prop/D55D441[m
+	[31m.Rproj.user/7B7855F2/sources/prop/FC9C70F4[m
+	[31m.Rproj.user/7B7855F2/sources/s-5F16900D/B956224E-contents[m
+	[31m.Rproj.user/7B7855F2/sources/s-5F16900D/EA384240[m
+	[31m.Rproj.user/7B7855F2/sources/s-5F16900D/EA384240-contents[m
+	[31m.Rproj.user/shared/notebooks/paths[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;~/Documents/Umich/iXperience/Projects/ixBlogNederburgAlexs-MacBook-Pro-2:ixBlogNederburg alexzhang2016$ git add -A 

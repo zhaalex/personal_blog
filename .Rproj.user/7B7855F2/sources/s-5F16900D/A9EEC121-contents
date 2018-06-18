@@ -11,7 +11,7 @@ paginate = 5 #frontpage pagination
 
 [params]
   slogan = "My Bruus!"
-  description = "Describe your website" # meta description
+  description = "My life in pictures" # meta description
   author = "Göran Svensson"
   authorLink = "https://appernetic.io/"
   bio = [

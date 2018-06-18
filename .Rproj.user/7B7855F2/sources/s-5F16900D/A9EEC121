@@ -2,18 +2,18 @@
     "collab_server" : "",
     "contents" : "",
     "created" : 1529328117135.000,
-    "dirty" : true,
+    "dirty" : false,
     "encoding" : "UTF-8",
     "folds" : "",
     "hash" : "0",
     "id" : "A9EEC121",
-    "lastKnownWriteTime" : 1529328997,
-    "last_content_update" : 1529329044273,
+    "lastKnownWriteTime" : 1529331561,
+    "last_content_update" : 1529331561504,
     "path" : "~/Documents/Umich/iXperience/Projects/ixBlogNederburg/config.toml",
     "project_path" : "config.toml",
     "properties" : {
-        "cursorPosition" : "60,5",
-        "scrollLine" : "46"
+        "cursorPosition" : "13,36",
+        "scrollLine" : "9"
     },
     "relative_order" : 1,
     "source_on_save" : false,
