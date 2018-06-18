@@ -6,16 +6,17 @@ languageCode = "en-us"
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
+ignoreFiles = ["\\.Rmd$", "\\.Rmarkdown$", "_files$", "_cache$"]
 preserveTaxonomyNames = true
 paginate = 5 #frontpage pagination
 
 [params]
   slogan = "My Bruus!"
   description = "My life in pictures" # meta description
-  author = "Göran Svensson"
+  author = "Alex Zhang"
   authorLink = "https://appernetic.io/"
   bio = [
-    "Göran is an avid blogger and the founder of <a href='https://appernetic.io/'>Appernetic.io</a>. This is the author bio shown after posts."
+    "Current computer science/jazz studies student at the University of Michigan.  Avid "
   ]
   copyright = [
     "&copy; 2018 Göran Svensson",

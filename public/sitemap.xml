@@ -3,7 +3,7 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>/post/work2/</loc>
+    <loc>/post/standardpost/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
   </url>
   
@@ -38,6 +38,11 @@
   </url>
   
   <url>
+    <loc>/post/intro/</loc>
+    <lastmod>2018-06-18T20:22:08+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/work10/</loc>
     <lastmod>2016-11-05T20:22:08+05:30</lastmod>
   </url>
@@ -68,6 +73,12 @@
   </url>
   
   <url>
+    <loc>/categories/about-me/</loc>
+    <lastmod>2018-06-18T20:22:08+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
     <loc>/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
     <priority>0</priority>
@@ -75,6 +86,7 @@
   
   <url>
     <loc>/categories/</loc>
+    <lastmod>2018-06-18T20:22:08+05:30</lastmod>
     <priority>0</priority>
   </url>
   
@@ -87,6 +99,12 @@
   <url>
     <loc>/categories/design/</loc>
     <lastmod>2016-11-05T19:41:01+05:30</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>/categories/hello-world/</loc>
+    <lastmod>2018-06-18T20:22:08+05:30</lastmod>
     <priority>0</priority>
   </url>
   
