@@ -1,0 +1,28 @@
+]0;~/Documents/Umich/iXperience/Projects/ixBlogNederburg[?1034hAlexs-MacBook-Pro-2:ixBlogNederburg alexzhang2016$ [KAlexs-MacBook-Pro-2:ixBlogNederburg alexzhang2016$ git [K[K[K[Kgit ls[K[K[K[K[K[Kls
+archetypes		ixBlogNederburg.Rproj
+config.toml		layouts
+content			public
+data			static
+index.Rmd		themes
+]0;~/Documents/Umich/iXperience/Projects/ixBlogNederburgAlexs-MacBook-Pro-2:ixBlogNederburg alexzhang2016$ git init
+Initialized empty Git repository in /Users/alexzhang2016/Documents/Umich/iXperience/Projects/ixBlogNederburg/.git/
+]0;~/Documents/Umich/iXperience/Projects/ixBlogNederburgAlexs-MacBook-Pro-2:ixBlogNederburg alexzhang2016$ git commit -m "first  commit"
+On branch master
+
+Initial commit
+
+Untracked files:
+	[31m.Rproj.user/[m
+	[31mconfig.toml[m
+	[31mcontent/[m
+	[31mindex.Rmd[m
+	[31mixBlogNederburg.Rproj[m
+	[31mlayouts/[m
+	[31mpublic/[m
+	[31mstatic/[m
+	[31mthemes/[m
+
+nothing added to commit but untracked files present
+]0;~/Documents/Umich/iXperience/Projects/ixBlogNederburgAlexs-MacBook-Pro-2:ixBlogNederburg alexzhang2016$ git remote add origi n https://github.com/zhaalex/personal_blog.git
+]0;~/Documents/Umich/iXperience/Projects/ixBlogNederburgAlexs-MacBook-Pro-2:ixBlogNederburg alexzhang2016$ git push -u origin m aster[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cremote add origin https://github.com/zhaalex/personal_blog.git[A[C[C[C[C[C[C[C[C[Cpush -u origin master[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[Cremote add origin https://github.com/zhaalex/personal_blog.git[A[C[C[C[C[C[C[C[C[Ccommit -m "first commit"[K[K[K[K[K[K[K[K[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K
+[K[A[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[C[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit add -A 
