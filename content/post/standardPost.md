@@ -4,7 +4,7 @@ title = "This is a Standard Post"
 draft = false
 image = "img/portfolio/logs1.jpg"
 showonlyimage = false
-categories = [ "Design"]
+categories = [ "Hello World"]
 weight = 12
 description = "Individual meta description for this post"
 +++

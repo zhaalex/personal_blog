@@ -12,15 +12,6 @@
     
     
     <item>
-      <title>About Me</title>
-      <link>/categories/about-me/</link>
-      <pubDate>Mon, 18 Jun 2018 20:22:08 +0530</pubDate>
-      
-      <guid>/categories/about-me/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Cape Town</title>
       <link>/categories/cape-town/</link>
       <pubDate>Mon, 18 Jun 2018 20:22:08 +0530</pubDate>
@@ -39,15 +30,6 @@
     </item>
     
     <item>
-      <title>Design</title>
-      <link>/categories/design/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
-      
-      <guid>/categories/design/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>Hello World</title>
       <link>/categories/hello-world/</link>
       <pubDate>Mon, 18 Jun 2018 20:22:08 +0530</pubDate>
@@ -57,38 +39,11 @@
     </item>
     
     <item>
-      <title>IX</title>
-      <link>/categories/ix/</link>
-      <pubDate>Mon, 18 Jun 2018 20:22:08 +0530</pubDate>
-      
-      <guid>/categories/ix/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Photography</title>
-      <link>/categories/photography/</link>
-      <pubDate>Sat, 05 Nov 2016 19:53:42 +0530</pubDate>
-      
-      <guid>/categories/photography/</guid>
-      <description></description>
-    </item>
-    
-    <item>
       <title>R</title>
       <link>/categories/r/</link>
       <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
       
       <guid>/categories/r/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>Travel</title>
-      <link>/categories/travel/</link>
-      <pubDate>Sat, 05 Nov 2016 19:44:32 +0530</pubDate>
-      
-      <guid>/categories/travel/</guid>
       <description></description>
     </item>
     
