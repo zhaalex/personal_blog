@@ -459,3 +459,39 @@ remote: Resolving deltas:   0% (0/9)   [Kremote: Resolving deltas:  11% (1/9) 
 To https://github.com/zhaalex/personal_blog.git
    ca10723..315eec8  master -> master
 ]0;~/Documents/Umich/iXperience/Projects/ixBlogNederburgAlexs-MacBook-Pro-2:ixBlogNederburg alexzhang2016$ git add -A 
+]0;~/Documents/Umich/iXperience/Projects/ixBlogNederburgAlexs-MacBook-Pro-2:ixBlogNederburg alexzhang2016$ git commit -m "added urls [K" 
+[master 1f7a72e] added urls
+ 4 files changed, 28 insertions(+), 8 deletions(-)
+]0;~/Documents/Umich/iXperience/Projects/ixBlogNederburgAlexs-MacBook-Pro-2:ixBlogNederburg alexzhang2016$ git c[Kpush 
+Counting objects: 11, done.
+Delta compression using up to 8 threads.
+Compressing objects:  10% (1/10)   Compressing objects:  20% (2/10)   Compressing objects:  30% (3/10)   Compressing objects:  40% (4/10)   Compressing objects:  50% (5/10)   Compressing objects:  60% (6/10)   Compressing objects:  70% (7/10)   Compressing objects:  80% (8/10)   Compressing objects:  90% (9/10)   Compressing objects: 100% (10/10)   Compressing objects: 100% (10/10), done.
+Writing objects:   9% (1/11)   Writing objects:  18% (2/11)   Writing objects:  27% (3/11)   Writing objects:  36% (4/11)   Writing objects:  45% (5/11)   Writing objects:  54% (6/11)   Writing objects:  63% (7/11)   Writing objects:  72% (8/11)   Writing objects:  81% (9/11)   Writing objects:  90% (10/11)   Writing objects: 100% (11/11)   Writing objects: 100% (11/11), 1.59 KiB | 1.59 MiB/s, done.
+Total 11 (delta 4), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/4)   [Kremote: Resolving deltas:  25% (1/4)   [Kremote: Resolving deltas:  50% (2/4)   [Kremote: Resolving deltas:  75% (3/4)   [Kremote: Resolving deltas: 100% (4/4)   [Kremote: Resolving deltas: 100% (4/4), completed with 4 local objects.[K
+To https://github.com/zhaalex/personal_blog.git
+   315eec8..1f7a72e  master -> master
+[KAlexs-MacBook-Pro-2:ixBlogNederburg alexzhang2016$ git add -A [K[K[K[K[K[K[Kstatus
+On branch master
+Your branch is up to date with 'origin/master'.
+
+Changes not staged for commit:
+  (use "git add/rm <file>..." to update what will be committed)
+  (use "git checkout -- <file>..." to discard changes in working directory)
+
+	[31mmodified:   .Rproj.user/7B7855F2/console06/96B7FE6E[m
+	[31mmodified:   .Rproj.user/7B7855F2/console06/INDEX001[m
+	[31mmodified:   .Rproj.user/7B7855F2/sources/prop/15D3C08B[m
+	[31mmodified:   .Rproj.user/7B7855F2/sources/prop/INDEX[m
+	[31mmodified:   .Rproj.user/shared/notebooks/paths[m
+	[31mdeleted:    content/post/work1.md[m
+	[31mdeleted:    content/post/work10.md[m
+	[31mdeleted:    content/post/work11.md[m
+	[31mdeleted:    content/post/work3.md[m
+	[31mdeleted:    content/post/work5.md[m
+	[31mdeleted:    content/post/work7.md[m
+	[31mdeleted:    content/post/work8.md[m
+	[31mdeleted:    content/post/work9.md[m
+
+no changes added to commit (use "git add" and/or "git commit -a")
+]0;~/Documents/Umich/iXperience/Projects/ixBlogNederburgAlexs-MacBook-Pro-2:ixBlogNederburg alexzhang2016$ git add -A 
