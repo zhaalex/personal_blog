@@ -1,0 +1,72 @@
+---
+title: "Building a Blog via Blogdown and Hugo"
+author: "Alex Zhang"
+date: 2018-06-21T21:13:14-05:00
+output: html_document
+categories: ["R"]
+tags: ["R Markdown", "tutorial"]
+---
+
+## Intro
+
+This is a beginner's tutorial to building a website through the R Package 'Blogdown' and Hugo.  Install RStudio (https://www.rstudio.com/products/rstudio/) and R (https://www.r-project.org/) to get started.
+
+Create an EMPTY directory (make sure it is empty besides the .Rproj file).
+
+Run the following commands in the console.  Sometimes Blogdown will give you weird errors if you run this code in a newly created R script file, so avoid making any new files until the commands below are executed.
+
+```{r setup}
+# install.packages("devtools")
+
+# install.packages("blogdown") #OR THE FOLLOWING LINE BELOW
+# devtools::install_github("rstudio/blogdown")
+
+# blogdown::new_site()
+```
+
+Once you install Blogdown, the following dropdown menu should appear titled "Addins".  
+
+<p align="center">
+  <img src="/img/portfolio/RStudioAddin.png" width="600" height="600" /> </img>
+</p>
+
+You can either use this to serve your site (preview it without deploying), or by running the command: 
+```{r servesite}
+# blogdown::serve_site()
+# Stop the site with 
+# blogdown::stop_server()
+```
+
+Any new posts (.md or .rmd) should be located in your content/post folder.  Be very careful as to what directory your files are located in, since the new_site() function is very particular with file locations.  
+
+Follow the example posts for a framework to work on for future posts.  Before we commit to Github, create a new file titled '.gitignore'.  If you encounter trouble creating it due to the '.' in the beginning, create a text file and name it whatever you want.  Then:
+
+```{r gitignore}
+# Add the following to the text file:
+# .Rproj.user
+#.Rhistory
+#.RData
+#.Ruserdata
+#public/
+
+#then navigate to your current directory in terminal and type in:
+#ren whatevernameyougavethefile.txt .gitignore
+```
+
+Add/commit/push your changes to Github.
+
+Almost there!
+
+#Deploying your website
+
+Go to https://app.netlify.com/signup and create an account through Github.
+
+## Including Plots
+
+You can also embed plots, for example:
+
+```{r pressure, echo=FALSE}
+plot(pressure)
+```
+
+Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.

@@ -52,6 +52,17 @@
     </item>
     
     <item>
+      <title>Building a Blog via Blogdown and Hugo</title>
+      <link>/post/buildingabloginrstudio/</link>
+      <pubDate>Thu, 21 Jun 2018 21:13:14 -0500</pubDate>
+      
+      <guid>/post/buildingabloginrstudio/</guid>
+      <description>Intro This is a beginner’s tutorial to building a website through the R Package ‘Blogdown’ and Hugo. Install RStudio (https://www.rstudio.com/products/rstudio/) and R (https://www.r-project.org/) to get started.
+Create an EMPTY directory (make sure it is empty besides the .Rproj file).
+Run the following commands in the console. Sometimes Blogdown will give you weird errors if you run this code in a newly created R script file, so avoid making any new files until the commands below are executed.</description>
+    </item>
+    
+    <item>
       <title>About me</title>
       <link>/about/</link>
       <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>

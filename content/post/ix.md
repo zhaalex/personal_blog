@@ -14,9 +14,44 @@ Time has flown by since I've gotten here!
 
 The 3 days I spent in Dubai before this trip seemed lengthy in comparison the 3 weeks I've been in Cape Town.  For some context, possibly due to my lack of effort, a sophomore internship at whatever company was not in the picture.  I'm also traveling to Peru on a month-long ROTC military-to-military collaboration with Peru's Chorrillo's Military School, where I'll be honing whatever skills I have.
 
-With Peru being smack-dab in my summer timeline and hearing about the great experiences at iXperience (hah) my olders friends had, I decided to sign up for the program (at a small fee).  It's been a sick month in Cape Town, and here's a few pics!
+With Peru being smack-dab in my summer timeline and hearing about the great experiences at iXperience (hah) my olders friends had, I decided to sign up for the program (at a small fee).  
 
-![6 hours into arrival](img/portfolio/IMG_0437.jpg)
+While I did learn a great amount through this program, the people I've met has made this more than worth it.  Yes, I'm breaking the bank (or my parents') to essentially meet people halfway across the world, but sophomore summer is one of the last times I can truly relax without any outside pressures.  
+
+It's been a sick month in Cape Town, and they say a picture's worth a thousand words, so here's a few thousand words.
+
+<p align="center">
+  <img src="/img/portfolio/IMG_0437.jpg" width="400" height="400" /> </img>
+  <p align="center">
+  6 hours into arrival 
+  </p>
+</p>
+
+<p align="center">
+  <img src="/img/portfolio/IMG_0514.jpg" width="400" height="400" /> </img>
+  <p align="center">
+  Gabriel doing business deals
+  </p>
+</p>
+
+<p align="center">
+  <img src="/img/portfolio/IMG_1458.jpg" width="400" height="400" /> </img>
+  <p align="center">
+  Schwalbe repping the swoosh
+  </p>
+</p>
+
+<p align="center">
+  <img src="/img/portfolio/IMG_0815.jpg" width="400" height="400" /> </img>
+  <p align="center">
+  iX
+  </p>
+</p>
+
+
+
+
+
 
 
 
