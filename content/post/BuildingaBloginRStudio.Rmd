@@ -80,21 +80,11 @@ Click on advanced build settings, and create the variable shown above.  The valu
 ```{r buildsettings}
 # $hugo version
 #the following, or something similar, should appear
-#Hugo Static Site Generator v.0.xx.y darwin/amd64
+# $Hugo Static Site Generator v.0.xx.y darwin/amd64
 ```
 
 The value will be 0.xx (I'm not too sure if the .y part is necessary).
 
 Deploy your site!
 
-
-
-## Including Plots
-
-You can also embed plots, for example:
-
-```{r pressure, echo=FALSE}
-plot(pressure)
-```
-
-Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.
+Shoot me an email if you have any questions!
