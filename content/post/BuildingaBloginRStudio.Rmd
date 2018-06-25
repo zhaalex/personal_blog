@@ -11,7 +11,9 @@ tags: ["R Markdown", "tutorial"]
 
 This is a beginner's tutorial to building a website through the R Package 'Blogdown' and Hugo.  Install RStudio (https://www.rstudio.com/products/rstudio/) and R (https://www.r-project.org/) to get started.
 
-Create an EMPTY directory (make sure it is empty besides the .Rproj file).
+Open RStudio and navigate to File -> New Project...
+
+Then, in the 'New Project' popup menu, click on New Directory -> New Project.  Feel free to name it whatever you like, and choose the directory location of your project.  You should now be in an EMPTY directory (make sure it is empty besides the .Rproj file).
 
 Run the following commands in the console.  Sometimes Blogdown will give you weird errors if you run this code in a newly created R script file, so avoid making any new files until the commands below are executed.
 
@@ -24,7 +26,9 @@ Run the following commands in the console.  Sometimes Blogdown will give you wei
 # blogdown::new_site()
 ```
 
-Once you install Blogdown, the following dropdown menu should appear titled "Addins".  
+At this point, you should have a previewable site in the 'Viewer' tab, next to 'Files | Plots | Packages | Help | Viewer'
+
+Once you install Blogdown, the following dropdown menu should appear titled "Addins". 
 
 <p align="center">
   <img src="/img/portfolio/RStudioAddin.png" width="600" height="600" /> </img>
@@ -37,7 +41,9 @@ You can either use this to serve your site (preview it without deploying), or by
 # blogdown::stop_server()
 ```
 
-Any new posts (.md or .rmd) should be located in your content/post folder.  Be very careful as to what directory your files are located in, since the new_site() function is very particular with file locations.  
+Any new posts (.md or .rmd) should be located in your 'content/post' folder.  Be very careful as to what directory your files are located in, since the new_site() function is very particular with file locations.  All changes you make and save to a post will automatically refresh the page so you can immediately preview them.
+
+Once you serve your site, click on the viewer tab to preview it.  Typically example posts are provided, so you should be able to have a working site from the beginning.
 
 Follow the example posts for a framework to work on for future posts.  Before we commit to Github, create a new file titled '.gitignore'.  If you encounter trouble creating it due to the '.' in the beginning, create a text file and name it whatever you want.  Then:
 
@@ -50,7 +56,7 @@ Follow the example posts for a framework to work on for future posts.  Before we
 #public/
 
 #then navigate to your current directory in terminal and type in:
-#ren whatevernameyougavethefile.txt .gitignore
+# $ren whatevernameyougavethefile.txt .gitignore
 ```
 
 Add/commit/push your changes to Github.
@@ -59,7 +65,29 @@ Almost there!
 
 #Deploying your website
 
-Go to https://app.netlify.com/signup and create an account through Github.
+Go to https://app.netlify.com/signup and create an account through Github.  
+
+Create a new site at "New site from Git," and select 'Github' under continuous deployment (or Gitlab/Bitbucket, depends where your code is stored). 
+
+Choose the repository your blog is stored in.  This will direct you to the third and final step.  The deploy settings are very important, if not followed correctly this is going to cause you unnecessary trouble.  
+
+<p align="center">
+  <img src="/img/portfolio/NetlifyBuildSettings.png" width="600" height="600" /> </img>
+</p>
+
+Click on advanced build settings, and create the variable shown above.  The value is whatever hugo version you are running, and if unsure, go to terminal and type in the following: 
+
+```{r buildsettings}
+# $hugo version
+#the following, or something similar, should appear
+#Hugo Static Site Generator v.0.xx.y darwin/amd64
+```
+
+The value will be 0.xx (I'm not too sure if the .y part is necessary).
+
+Deploy your site!
+
+
 
 ## Including Plots
 
