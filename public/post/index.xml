@@ -32,26 +32,6 @@
     </item>
     
     <item>
-      <title>A post without an Image</title>
-      <link>/post/work4/</link>
-      <pubDate>Sat, 05 Nov 2016 19:50:47 +0530</pubDate>
-      
-      <guid>/post/work4/</guid>
-      <description>&lt;p&gt;Far far away, behind the word mountains, far from the countries Vokalia and Consonantia, there live the blind texts. A small river named Duden flows by their place and supplies it with the necessary regelialia. It is a paradisematic country, in which roasted parts of sentences fly into your mouth.
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>This is a Standard Post</title>
-      <link>/post/standardpost/</link>
-      <pubDate>Sat, 05 Nov 2016 19:41:01 +0530</pubDate>
-      
-      <guid>/post/standardpost/</guid>
-      <description>&lt;p&gt;This is what an ordinary post looks like, and you’re reading a custom excerpt right now. Have fun looking around the theme, and don’t forget to check it out on your phone!
-&lt;/p&gt;</description>
-    </item>
-    
-    <item>
       <title>Building a Blog via Blogdown and Hugo</title>
       <link>/post/buildingabloginrstudio/</link>
       <pubDate>Thu, 21 Jun 2018 21:13:14 -0500</pubDate>
@@ -60,17 +40,6 @@
       <description>Intro This is a beginner’s tutorial to building a website through the R Package ‘Blogdown’ and Hugo. Install RStudio (https://www.rstudio.com/products/rstudio/) and R (https://www.r-project.org/) to get started.
 Open RStudio and navigate to File -&amp;gt; New Project…
 Then, in the ‘New Project’ popup menu, click on New Directory -&amp;gt; New Project. Feel free to name it whatever you like, and choose the directory location of your project. You should now be in an EMPTY directory (make sure it is empty besides the .</description>
-    </item>
-    
-    <item>
-      <title>Hello R Markdown</title>
-      <link>/post/2015-07-23-r-rmarkdown/</link>
-      <pubDate>Thu, 23 Jul 2015 21:13:14 -0500</pubDate>
-      
-      <guid>/post/2015-07-23-r-rmarkdown/</guid>
-      <description>R Markdown This is an R Markdown document. Markdown is a simple formatting syntax for authoring HTML, PDF, and MS Word documents. For more details on using R Markdown see http://rmarkdown.rstudio.com.
-You can embed an R code chunk like this:
-summary(cars) ## speed dist ## Min. : 4.0 Min. : 2.00 ## 1st Qu.:12.0 1st Qu.: 26.00 ## Median :15.0 Median : 36.00 ## Mean :15.4 Mean : 42.98 ## 3rd Qu.</description>
     </item>
     
   </channel>

@@ -13,16 +13,6 @@
   </url>
   
   <url>
-    <loc>/post/work4/</loc>
-    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/standardpost/</loc>
-    <lastmod>2016-11-05T19:41:01+05:30</lastmod>
-  </url>
-  
-  <url>
     <loc>/post/buildingabloginrstudio/</loc>
     <lastmod>2018-06-21T21:13:14-05:00</lastmod>
   </url>
@@ -35,11 +25,6 @@
   <url>
     <loc>/about/</loc>
     <lastmod>2016-11-05T21:05:33+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/post/2015-07-23-r-rmarkdown/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
   </url>
   
   <url>
@@ -67,12 +52,6 @@
   </url>
   
   <url>
-    <loc>/categories/code/</loc>
-    <lastmod>2016-11-05T19:50:47+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
     <loc>/categories/hello-world/</loc>
     <lastmod>2018-06-18T20:22:08+05:30</lastmod>
     <priority>0</priority>
@@ -81,12 +60,6 @@
   <url>
     <loc>/tags/ix/</loc>
     <lastmod>2018-06-18T20:22:08+05:30</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/plot/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -105,12 +78,6 @@
   <url>
     <loc>/tags/r-markdown/</loc>
     <lastmod>2018-06-21T21:13:14-05:00</lastmod>
-    <priority>0</priority>
-  </url>
-  
-  <url>
-    <loc>/tags/regression/</loc>
-    <lastmod>2015-07-23T21:13:14-05:00</lastmod>
     <priority>0</priority>
   </url>
   
