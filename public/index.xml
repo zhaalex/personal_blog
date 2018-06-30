@@ -5,7 +5,6 @@
     <link>/</link>
     <description>Recent content on Alex Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <language>en-us</language>
     <lastBuildDate>Mon, 18 Jun 2018 20:22:08 +0530</lastBuildDate>
     
 	<atom:link href="/index.xml" rel="self" type="application/rss+xml" />
@@ -32,6 +31,17 @@
     </item>
     
     <item>
+      <title>About me</title>
+      <link>/about/</link>
+      <pubDate>Sat, 30 Jun 2018 21:05:33 +0530</pubDate>
+      
+      <guid>/about/</guid>
+      <description>&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Lil Pump started on Soundcloud. Lil Gravy did too, but no one knows him. Drake definitely didn&amp;rsquo;t start from the bottom, contrary to his hit &amp;ldquo;Started from the Bottom&amp;rdquo;, but now he&amp;rsquo;s relatively successful.
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Walt Disney had humble beginnings as a farm boy. He was also widely regarded as a racist.
+&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;&amp;nbsp;Steve Jobs dropped out of college to travel the world and to find himself. Now, I can&amp;rsquo;t replace the battery on my cracked iPhone 6 Plus until I pay $200 to fix the screen just so the technicians can access the battery.</description>
+    </item>
+    
+    <item>
       <title>Building a Blog via Blogdown and Hugo</title>
       <link>/post/buildingabloginrstudio/</link>
       <pubDate>Thu, 21 Jun 2018 21:13:14 -0500</pubDate>
@@ -40,16 +50,6 @@
       <description>Intro This is a beginner’s tutorial to building a website through the R Package ‘Blogdown’ and Hugo. Install RStudio (https://www.rstudio.com/products/rstudio/) and R (https://www.r-project.org/) to get started.
 Open RStudio and navigate to File -&amp;gt; New Project…
 Then, in the ‘New Project’ popup menu, click on New Directory -&amp;gt; New Project. Feel free to name it whatever you like, and choose the directory location of your project. You should now be in an EMPTY directory (make sure it is empty besides the .</description>
-    </item>
-    
-    <item>
-      <title>About me</title>
-      <link>/about/</link>
-      <pubDate>Sat, 05 Nov 2016 21:05:33 +0530</pubDate>
-      
-      <guid>/about/</guid>
-      <description>An sincerity so extremity he additions. Her yet there truth merit. Mrs all projecting favourable now unpleasing. Son law garden chatty temper. Oh children provided to mr elegance marriage strongly. Off can admiration prosperous now devonshire diminution law.
-Received overcame oh sensible so at an. Formed do change merely to county it. Am separate contempt domestic to to oh. On relation my so addition branched. Put hearing cottage she norland letters equally prepare too.</description>
     </item>
     
   </channel>

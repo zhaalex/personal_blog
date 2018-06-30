@@ -596,3 +596,16 @@ To https://github.com/zhaalex/personal_blog.git
 ]0;~/Documents/Umich/iXperience/Projects/ixBlogNederburgAlexs-MacBook-Pro-2:ixBlogNederburg alexzhang2016$ netlify update
 bash: netlify: command not found
 ]0;~/Documents/Umich/iXperience/Projects/ixBlogNederburgAlexs-MacBook-Pro-2:ixBlogNederburg alexzhang2016$ npm install netlify-cli -g[12Petlify update[K[K[K[K[K[K[K[K[K[K[K[K[K[Kgit add -A 
+]0;~/Documents/Umich/iXperience/Projects/ixBlogNederburgAlexs-MacBook-Pro-2:ixBlogNederburg alexzhang2016$ git commit -m "done with turo[K[Ktorial, futur e edits possible" 
+[master 1864c12] done with tutorial, future edits possible
+ 3 files changed, 23 insertions(+), 19 deletions(-)
+]0;~/Documents/Umich/iXperience/Projects/ixBlogNederburgAlexs-MacBook-Pro-2:ixBlogNederburg alexzhang2016$ git push
+Counting objects: 10, done.
+Delta compression using up to 8 threads.
+Compressing objects:  10% (1/10)   Compressing objects:  20% (2/10)   Compressing objects:  30% (3/10)   Compressing objects:  40% (4/10)   Compressing objects:  50% (5/10)   Compressing objects:  60% (6/10)   Compressing objects:  70% (7/10)   Compressing objects:  80% (8/10)   Compressing objects:  90% (9/10)   Compressing objects: 100% (10/10)   Compressing objects: 100% (10/10), done.
+Writing objects:  10% (1/10)   Writing objects:  20% (2/10)   Writing objects:  30% (3/10)   Writing objects:  40% (4/10)   Writing objects:  50% (5/10)   Writing objects:  60% (6/10)   Writing objects:  70% (7/10)   Writing objects:  80% (8/10)   Writing objects:  90% (9/10)   Writing objects: 100% (10/10)   Writing objects: 100% (10/10), 1.82 KiB | 930.00 KiB/s, done.
+Total 10 (delta 5), reused 0 (delta 0)
+remote: Resolving deltas:   0% (0/5)   [Kremote: Resolving deltas:  20% (1/5)   [Kremote: Resolving deltas:  40% (2/5)   [Kremote: Resolving deltas:  60% (3/5)   [Kremote: Resolving deltas:  80% (4/5)   [Kremote: Resolving deltas: 100% (5/5)   [Kremote: Resolving deltas: 100% (5/5), completed with 5 local objects.[K
+To https://github.com/zhaalex/personal_blog.git
+   cad3da2..1864c12  master -> master
+[KAlexs-MacBook-Pro-2:ixBlogNederburg alexzhang2016$ git add -A 

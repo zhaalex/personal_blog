@@ -1,6 +1,7 @@
 ~%2FDocuments%2FUmich%2FiXperience%2FProjects%2FixBlogNederburg%2F.gitignore="5E9FBFB8"
 ~%2FDocuments%2FUmich%2FiXperience%2FProjects%2FixBlogNederburg%2FBuilding%20a%20Blog%20via%20Blogdown%3AHugo.Rmd="E3C71807"
 ~%2FDocuments%2FUmich%2FiXperience%2FProjects%2FixBlogNederburg%2Fconfig.toml="15D3C08B"
+~%2FDocuments%2FUmich%2FiXperience%2FProjects%2FixBlogNederburg%2Fcontent%2Fabout%2Findex.html="F1363C88"
 ~%2FDocuments%2FUmich%2FiXperience%2FProjects%2FixBlogNederburg%2Fcontent%2Fabout%2Findex.md="8948A1FB"
 ~%2FDocuments%2FUmich%2FiXperience%2FProjects%2FixBlogNederburg%2Fcontent%2Fcontact%2F_index.md="41D9A5BB"
 ~%2FDocuments%2FUmich%2FiXperience%2FProjects%2FixBlogNederburg%2Fcontent%2Fpost%2F2015-07-23-r-rmarkdown.Rmd="9979CD16"
@@ -24,3 +25,5 @@
 ~%2FDocuments%2FUmich%2FiXperience%2FProjects%2FixBlogNederburg%2Findex.Rmd="FC9C70F4"
 ~%2FDocuments%2FUmich%2FiXperience%2FProjects%2FixBlogNederburg%2Fpublic%2Fabout%2Findex.html="3E51E00"
 ~%2FDocuments%2FUmich%2FiXperience%2FProjects%2FixBlogNederburg%2Fpublic%2Findex.html="D55D441"
+~%2FDocuments%2FUmich%2FiXperience%2FProjects%2FixBlogNederburg%2Fthemes%2Fhugo-nederburg-theme%2Flayouts%2Fcontact%2Flist.html="9E92EB"
+~%2FDocuments%2FUmich%2FiXperience%2FProjects%2FixBlogNederburg%2Fthemes%2Fhugo-nederburg-theme%2Ftheme.toml="C4F9198"

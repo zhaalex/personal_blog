@@ -1,7 +1,8 @@
 baseurl = "/"
 title = "Alex Zhang"
 theme = "hugo-nederburg-theme"
-languageCode = "en-us"
+#languageCode = "en-us"
+defaultContentLanguage = "en"
 # Enable comments by entering your Disqus shortname
 disqusShortname = ""
 # Enable Google Analytics by entering your tracking code

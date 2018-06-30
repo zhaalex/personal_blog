@@ -13,6 +13,11 @@
   </url>
   
   <url>
+    <loc>/about/</loc>
+    <lastmod>2018-06-30T21:05:33+05:30</lastmod>
+  </url>
+  
+  <url>
     <loc>/post/buildingabloginrstudio/</loc>
     <lastmod>2018-06-21T21:13:14-05:00</lastmod>
   </url>
@@ -20,11 +25,6 @@
   <url>
     <loc>/contact/</loc>
     <lastmod>2016-11-06T13:00:25+05:30</lastmod>
-  </url>
-  
-  <url>
-    <loc>/about/</loc>
-    <lastmod>2016-11-05T21:05:33+05:30</lastmod>
   </url>
   
   <url>
