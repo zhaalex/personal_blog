@@ -16,9 +16,9 @@ The 3 days I spent in Dubai before this trip seemed lengthy in comparison the 3 
 
 With Peru being smack-dab in my summer timeline and hearing about the great experiences at iXperience (hah) my olders friends had, I decided to sign up for the program (at a small fee).  
 
-While I did learn a great amount through this program, the people I've met has made this more than worth it.  Yes, I'm breaking the bank (or my parents') to essentially meet people halfway across the world, but sophomore summer is one of the last times I can truly relax without any outside pressures.  
+While I did learn a great amount through this program, the people I've met has made this more than worth it.  Yes, I'm breaking the bank (or my parents') to essentially meet people halfway across the world, and the ROI on this program probably wasn't the best, but sophomore summer is one of the last times I can truly relax without any outside pressures.  
 
-It's been a sick month in Cape Town, and they say a picture's worth a thousand words, so here's a few thousand words.
+It's been a sick month in Cape Town with some great people, and they say a picture's worth a thousand words, so here's a few thousand words.
 
 <p align="center">
   <img src="/img/portfolio/IMG_0437.jpg" width="400" height="400" /> </img>
@@ -48,10 +48,20 @@ It's been a sick month in Cape Town, and they say a picture's worth a thousand w
   </p>
 </p>
 
+(Update: July 7th, 2018): I'm finally getting around to finishing this post after a week back home (Troy, MI).  With not much to do, I've been binge watching 3blue1brown's linear algebra youtube series, to give a picture of my current life.  
+
+I've started an [Instagram photography account](https://www.instagram.com/pipelinephotos/), mainly as a photodump for all of my Cape Town pictures, but also as to serve as a type of journal for life in general.  I'm almost at 100 followers, so you could say I'm gonna make it big.
+
+Lastly, here are some words from Gabe.
+
+<p align="center">
+  <img src="/img/portfolio/IMG_1275.jpeg" width="400" height="400" /> </img>
+  <p align="center">
+  To the future
+  </p>
+</p>
 
 
 
 
-
-
-
+Special thanks to Ryan Tish and [Danielle Mileto](https://thebucketlistchecklist.com/page/) for getting me hip to this program, and onto Peru!!
