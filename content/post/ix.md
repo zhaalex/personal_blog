@@ -57,11 +57,15 @@ Lastly, here are some words from Gabe.
 <p align="center">
   <img src="/img/portfolio/IMG_1275.jpeg" width="400" height="400" /> </img>
   <p align="center">
-  To the future
+  To the future and lifelong friends
   </p>
 </p>
 
+(Update: Jul 16, 2018): I made a YouTube video!
 
+<div align="center">
+   <iframe width="560" height="315" src="https://www.youtube.com/embed/fM3E7my_ncQ" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+</div>
 
 
 Special thanks to Ryan Tish and [Danielle Mileto](https://thebucketlistchecklist.com/page/) for getting me hip to this program, and onto Peru!!
