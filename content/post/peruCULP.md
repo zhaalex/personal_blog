@@ -5,10 +5,13 @@ showonlyimage = true
 date = "2018-08-01T20:22:08+05:30"
 title = "CU&LP Trip - Peru Reflections"
 categories = [ "Travel" ]
-tags = ["CULP", "ROTC"]
+tags = ["summer18", "ROTC"]
 weight = 2
 +++
 
+"Hablo Español un paquito."
+
+<!--more-->
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This past July, I traveled to Peru for approximately three weeks through ROTC's CU&LP (Cultural Understanding and Language Proficiency) program with 30 other cadets from across the nation to train with the Peru's Escuela Militar de Chorrillos, their version of the United States Military Academy. 
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One of the reasons I'm writing my blog post is because I have to discuss with my team leader on my takeaways from this mission and future leadership improvements, so apologies if some parts may seem a little robotic (sections taken from my evaluation).  This trip was nothing like what I expected, but it definitely widened my horizons.  My thoughts below!

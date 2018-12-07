@@ -1,7 +1,7 @@
 +++
 date = "2018-06-30T21:05:33+05:30"
 title = "About me"
-categories = [ "Hello World" ]
+categories = [ "Misc" ]
 +++
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Lil Pump started on Soundcloud.  Lil Gravy did too, but no one knows him.  Drake definitely didn't start from the bottom, contrary to his hit "Started from the Bottom", but now he's relatively successful.

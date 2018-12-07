@@ -4,9 +4,9 @@ image = "img/portfolio/IMG_0660.jpg"
 showonlyimage = true
 date = "2018-06-18T20:22:08+05:30"
 title = "Cape Town, Bru"
-categories = [ "Cape Town" ]
-tags = ["abroad", "summer18", "iX"]
-weight = 1
+categories = [ "Travel" ]
+tags = ["summer18", "iX"]
+weight = 2
 +++
 
 Time has flown by since I've gotten here!  

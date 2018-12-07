@@ -5,35 +5,25 @@
     <link>/categories/</link>
     <description>Recent content in Categories on Alex Zhang</description>
     <generator>Hugo -- gohugo.io</generator>
-    <lastBuildDate>Mon, 18 Jun 2018 20:22:08 +0530</lastBuildDate>
     
 	<atom:link href="/categories/index.xml" rel="self" type="application/rss+xml" />
     
     
     <item>
-      <title>Cape Town</title>
-      <link>/categories/cape-town/</link>
+      <title>Misc</title>
+      <link>/categories/misc/</link>
       <pubDate>Mon, 18 Jun 2018 20:22:08 +0530</pubDate>
       
-      <guid>/categories/cape-town/</guid>
+      <guid>/categories/misc/</guid>
       <description></description>
     </item>
     
     <item>
-      <title>Hello World</title>
-      <link>/categories/hello-world/</link>
-      <pubDate>Mon, 18 Jun 2018 20:22:08 +0530</pubDate>
+      <title>Photos</title>
+      <link>/categories/photos/</link>
+      <pubDate>Fri, 07 Dec 2018 02:14:08 +0530</pubDate>
       
-      <guid>/categories/hello-world/</guid>
-      <description></description>
-    </item>
-    
-    <item>
-      <title>R</title>
-      <link>/categories/r/</link>
-      <pubDate>Thu, 21 Jun 2018 21:13:14 -0500</pubDate>
-      
-      <guid>/categories/r/</guid>
+      <guid>/categories/photos/</guid>
       <description></description>
     </item>
     
